@@ -5,7 +5,7 @@
 #puts "Pensei em um número de 0 a 5, qual número eu pensei?"
 #x = gets.chomp.to_i
 
-#if 
+if 
   #  x === 1 || 2 || 3 || 4
    # puts "Você errou, tente novamente!"
    # x === 5 
