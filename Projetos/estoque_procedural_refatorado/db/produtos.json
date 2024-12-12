@@ -1,0 +1,19 @@
+[
+   {
+    "id": 1,
+    "nome": "Pera",
+    "descricao": "Peraaaaaa",
+    "preco": 15,
+    "quantidade_estoque": 2
+}
+,
+{
+    "id": 2,
+    "nome": "Pera2",
+    "descricao": "Peraaaaaa",
+    "preco": 15,
+    "quantidade_estoque": 2
+}
+
+
+]
